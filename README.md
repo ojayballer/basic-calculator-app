@@ -1,4 +1,4 @@
-# Basic Calculator App (Tkinter - Python)
+# Basic Calculator App (Tkinter : Python)
 
 This is a **basic calculator application** built using **Python's Tkinter library**. It supports basic arithmetic operations: addition, subtraction, multiplication, and division :all wrapped in a clean GUI.
 
